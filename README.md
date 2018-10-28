@@ -1,2 +1,2 @@
 # NTP_Status
-Query current time from any NTP server.
+Query current time from any NTP server using python.
